@@ -9,3 +9,7 @@ is 5. All links will be bidirectional at the same cost (ie aij = aji = 5).
 The program at its output prints: (a) the typology used and (b)
 k paths calculated per pair of nodes.
 
+The user can gives he's own topology or choose to use the default topology.
+The default topology shown below.
+
+
